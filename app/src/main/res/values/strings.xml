@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BluetoothSendFile</string>
+    <string name="pair_button">Pair the Bluetooth</string>
+    <string name="send_button">Send</string>
+    <string name="send_text">Enter the Message</string>
+    <string name="text_show">MessageBox</string>
+</resources>
